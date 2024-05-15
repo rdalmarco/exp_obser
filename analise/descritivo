@@ -1,0 +1,8 @@
+Este conjunto de dados contém informações sobre perguntas, respostas,
+comentários, votos, badges e tags de interações de usuários na rede Stack Exchange.
+
+O Stack Overflow por exemplo é um dos sites mais populares da rede Stack Exchange.
+
+Nessa análise vou buscar em alguns momentos encontrar posts e comentários sobre
+Eng de Software, foi baixado então um XML onde as interações são relacionadas a
+esse tema
